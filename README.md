@@ -1,5 +1,7 @@
 # Oneline Proton
 
+To add, clone this into your firefox userchrome folder. This is my customization of the original OnelineProton project. I do not claim ownership over this code, and am just hosting it on github so I can avoid reconfiguring it.
+
 _An oneline userChrome.css theme for Firefox, which aims to keep the Proton experience._
 
 ![Oneline Proton screenshot](screenshot.png)
